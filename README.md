@@ -41,6 +41,7 @@ I'm currently building my skills across the **MERN stack**, backend development,
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,npm)](https://skillicons.dev)
+
 ---
 
 # Projects
@@ -216,6 +217,9 @@ Currently working through the **Relational Database Certification**, focusing on
 - Git & GitHub
 - Database projects
 
+**freeCodeCamp Profile:**  
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Profile-0A0A23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/nkosinathitshabalala)
+
 ---
 
 # Currently Learning
@@ -275,9 +279,11 @@ I'm working toward becoming a **HYROX athlete in the future**, with a focus on d
 
 ---
 
-# GitHub
+# Profiles
 
-**GitHub:** [NkosinathiKingslyTshabalala](https://github.com/NkosinathiKingslyTshabalala)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/NkosinathiKingslyTshabalala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nkosinathi_Tshabalala-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkosinathi-tshabalala-235a48269/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-NkosinathiTshabalala-0A0A23?logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/nkosinathitshabalala)
 
 ---
 
