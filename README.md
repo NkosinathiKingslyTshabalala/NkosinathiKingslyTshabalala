@@ -188,6 +188,10 @@ Outside of software development, I'm interested in fitness, sports, and continuo
 
 I'm also a **fitness model**, combining training, physique development, and visual presentation.
 
+### Athletic Goals
+
+I'm working toward becoming a **HYROX athlete in the future**, with a focus on developing strength, endurance, conditioning, and overall athletic performance.
+
 ### Hobbies
 
 - Chess
@@ -207,6 +211,7 @@ I'm also a **fitness model**, combining training, physique development, and visu
 - Build and deploy useful real-world software
 - Continue developing my Computer Science foundation
 - Grow as both a software developer and fitness model
+- Work toward becoming a HYROX athlete
 
 ---
 
