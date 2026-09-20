@@ -24,37 +24,23 @@ I'm currently building my skills across the **MERN stack**, backend development,
 
 ### Languages
 
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+[![My Skills](https://skillicons.dev/icons?i=js,sql,html,css)](https://skillicons.dev)
 
 ### Frontend
 
-- React
-- Three.js
-- Vite
+[![My Skills](https://skillicons.dev/icons?i=react,threejs,vite)](https://skillicons.dev)
 
 ### Backend
 
-- Node.js
-- Express.js
-- REST APIs
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Databases
 
-- PostgreSQL
-- MongoDB
-- SQL
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Bash
-- npm
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,bash,npm)](https://skillicons.dev)
 ---
 
 # Projects
